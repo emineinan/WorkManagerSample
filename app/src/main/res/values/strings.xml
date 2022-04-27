@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkManagerSample</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+    <string name="amount_of_water_drunk">Amount of Water Drunk</string>
+    <string name="okay">OKAY</string>
+</resources>
